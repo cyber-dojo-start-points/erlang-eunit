@@ -1,6 +1,5 @@
-
 {
-  "image_name": "cyberdojofoundation/erlang_eunit",
+  "image_name": "cyberdojofoundation/erlang_eunit:e5c24f8",
   "display_name": "Erlang, eunit",
   "visible_filenames": [
     "hiker_tests.erl",
@@ -8,7 +7,9 @@
     "cyber-dojo.sh",
     "Makefile"
   ],
-  "filename_extension": [ ".erl" ],
+  "filename_extension": [
+    ".erl"
+  ],
   "max_seconds": 10,
   "tab_size": 2
 }
