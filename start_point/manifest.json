@@ -1,5 +1,5 @@
 {
-  "image_name": "cyberdojofoundation/erlang_eunit:b6ba3e3",
+  "image_name": "cyberdojofoundation/erlang_eunit:d3860fc",
   "display_name": "Erlang, eunit",
   "visible_filenames": [
     "hiker_tests.erl",
