@@ -1,6 +1,6 @@
-[![CircleCI](https://circleci.com/gh/cyber-dojo-start-points/erlang-eunit.svg?style=svg)](https://circleci.com/gh/cyber-dojo-start-points/erlang-eunit)
+[![Github Action (master)](https://github.com/cyber-dojo-start-points/erlang-eunit/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-start-points/erlang-eunit/actions)
 
-### display_name="Erlang, eunit"
-### image_name="[cyberdojofoundation/erlang_eunit](https://hub.docker.com/repository/docker/cyberdojofoundation/erlang_eunit)"
+### display_name="Erlang 27, eunit"
+### image_name=[ghcr.io/cyber-dojo-languages/erlang_eunit](https://ghcr.io/cyber-dojo-languages/erlang_eunit)
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)
