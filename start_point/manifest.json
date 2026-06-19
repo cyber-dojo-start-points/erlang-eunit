@@ -1,6 +1,14 @@
 {
   "image_name": "ghcr.io/cyber-dojo-languages/erlang_eunit:3ce3b72",
   "display_name": "Erlang 27, eunit",
+  "language": [
+    "Erlang",
+    "27"
+  ],
+  "test_framework": [
+    "eunit",
+    ""
+  ],
   "visible_filenames": [
     "hiker_tests.erl",
     "hiker.erl",
