@@ -1,5 +1,5 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/erlang_eunit:1a60d00",
+  "image_name": "ghcr.io/cyber-dojo-languages/erlang_eunit:3ff0f43",
   "display_name": "Erlang 27, eunit",
   "language": [
     "Erlang",
