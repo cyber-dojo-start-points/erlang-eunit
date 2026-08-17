@@ -1,5 +1,5 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/erlang_eunit:3ce3b72",
+  "image_name": "ghcr.io/cyber-dojo-languages/erlang_eunit:1a60d00",
   "display_name": "Erlang 27, eunit",
   "language": [
     "Erlang",
@@ -15,6 +15,7 @@
     "cyber-dojo.sh",
     "Makefile"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".erl"
   ],
