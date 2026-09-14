@@ -1,0 +1,12 @@
+{
+  "matches": [
+    "^hiker\\.erl:5:3: function ansewr_helper/0 undefined, did you mean answer_helper/0\\?$",
+    "^hiker\\.erl:7:1: Warning: function answer_helper/0 is unused$",
+    "^make: \\*\\*\\* \\[Makefile:[0-9]+: hiker\\.beam\\] Error 1$"
+  ],
+  "match_counts": {
+    "passed\\.$": 0,
+    "^  Failed: ": 0
+  },
+  "truncated": false
+}

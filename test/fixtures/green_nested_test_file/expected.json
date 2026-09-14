@@ -1,0 +1,11 @@
+{
+  "matches": [
+    "^  Test passed\\.$"
+  ],
+  "match_counts": {
+    "^  Test passed\\.$": 1,
+    "answer_size_tests": 0
+  },
+  "max_output_lines": 10,
+  "truncated": false
+}

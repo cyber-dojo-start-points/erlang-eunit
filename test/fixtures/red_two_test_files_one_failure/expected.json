@@ -1,0 +1,10 @@
+{
+  "matches": [
+    "^answer_size_tests: the_answer_is_three_digits_long_test\\.\\.\\.\\*failed\\*$"
+  ],
+  "match_counts": {
+    "^  Failed: 1\\.  Skipped: 0\\.  Passed: 3\\.$": 1,
+    "\\*failed\\*$": 1
+  },
+  "truncated": false
+}

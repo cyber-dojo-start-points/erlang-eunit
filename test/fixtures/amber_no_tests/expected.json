@@ -1,0 +1,10 @@
+{
+  "matches": [
+    "^  There were no tests to run\\.$"
+  ],
+  "match_counts": {
+    "^  There were no tests to run\\.$": 1,
+    "passed\\.$": 0
+  },
+  "truncated": false
+}

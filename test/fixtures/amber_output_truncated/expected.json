@@ -1,0 +1,10 @@
+{
+  "matches": [
+    "^noise on line 1 of a very chatty test$"
+  ],
+  "match_counts": {
+    "passed\\.$": 0,
+    "^  Failed: ": 0
+  },
+  "truncated": true
+}

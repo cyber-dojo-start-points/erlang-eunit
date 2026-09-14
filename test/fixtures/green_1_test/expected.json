@@ -1,0 +1,10 @@
+{
+  "matches": [
+    "^  Test passed\\.$"
+  ],
+  "match_counts": {
+    "^  Test passed\\.$": 1
+  },
+  "max_output_lines": 10,
+  "truncated": false
+}

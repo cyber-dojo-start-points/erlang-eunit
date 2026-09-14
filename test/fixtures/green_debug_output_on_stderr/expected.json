@@ -1,0 +1,12 @@
+{
+  "matches": [
+    "^DEBUG hiker:answer\\(\\) is 42$",
+    "^  Test passed\\.$"
+  ],
+  "match_counts": {
+    "^DEBUG hiker:answer\\(\\) is 42$": 1,
+    "^  Test passed\\.$": 1
+  },
+  "max_output_lines": 10,
+  "truncated": false
+}

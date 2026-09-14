@@ -1,0 +1,12 @@
+{
+  "matches": [
+    "^hiker\\.erl:5:3: syntax error before: $",
+    "^hiker\\.erl:2:2: function answer/0 undefined$",
+    "^make: \\*\\*\\* \\[Makefile:[0-9]+: hiker\\.beam\\] Error 1$"
+  ],
+  "match_counts": {
+    "passed\\.$": 0,
+    "^  Failed: ": 0
+  },
+  "truncated": false
+}

@@ -1,0 +1,12 @@
+{
+  "matches": [
+    "^checksum\\.erl:7:7: syntax error before: $",
+    "^checksum\\.erl:4:2: function twice/1 undefined$",
+    "^make: \\*\\*\\* \\[Makefile:[0-9]+: checksum\\.beam\\] Error 1$"
+  ],
+  "match_counts": {
+    "passed\\.$": 0,
+    "^  Failed: ": 0
+  },
+  "truncated": false
+}

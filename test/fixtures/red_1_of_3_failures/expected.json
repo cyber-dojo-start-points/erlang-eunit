@@ -1,0 +1,12 @@
+{
+  "matches": [
+    "^hiker_tests: the_answer_is_three_digits_long_test\\.\\.\\.\\*failed\\*$",
+    "^\\*\\*error:[{]assert,[[][{]module,hiker_tests[}],$",
+    "^ +[{]value,false[}][]][}]$"
+  ],
+  "match_counts": {
+    "^  Failed: 1\\.  Skipped: 0\\.  Passed: 2\\.$": 1,
+    "\\*failed\\*$": 1
+  },
+  "truncated": false
+}

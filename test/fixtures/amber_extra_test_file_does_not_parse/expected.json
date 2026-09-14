@@ -1,0 +1,11 @@
+{
+  "matches": [
+    "^answer_size_tests\\.erl:5:4: badly formed argument for macro 'assert'$",
+    "^make: \\*\\*\\* \\[Makefile:[0-9]+: answer_size_tests\\.beam\\] Error 1$"
+  ],
+  "match_counts": {
+    "passed\\.$": 0,
+    "^  Failed: ": 0
+  },
+  "truncated": false
+}

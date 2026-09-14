@@ -1,0 +1,11 @@
+{
+  "matches": [
+    "^hiker_tests\\.erl:6:16: variable 'TheAnswer' is unbound$",
+    "^make: \\*\\*\\* \\[Makefile:[0-9]+: hiker_tests\\.beam\\] Error 1$"
+  ],
+  "match_counts": {
+    "passed\\.$": 0,
+    "^  Failed: ": 0
+  },
+  "truncated": false
+}

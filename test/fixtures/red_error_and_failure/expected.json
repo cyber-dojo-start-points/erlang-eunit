@@ -1,0 +1,13 @@
+{
+  "matches": [
+    "^hiker_tests: life_the_universe_and_everything_test\\.\\.\\.\\*failed\\*$",
+    "^\\*\\*error:[{]assertEqual,[[][{]module,hiker_tests[}],$",
+    "^hiker_tests: the_answer_divides_by_its_own_remainder_test\\.\\.\\.\\*failed\\*$",
+    "^\\*\\*error:badarith$"
+  ],
+  "match_counts": {
+    "^  Failed: 2\\.  Skipped: 0\\.  Passed: 0\\.$": 1,
+    "\\*failed\\*$": 2
+  },
+  "truncated": false
+}
