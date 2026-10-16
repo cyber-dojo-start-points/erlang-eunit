@@ -1,9 +1,9 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/erlang_eunit:fd44f11",
-  "display_name": "Erlang 29, eunit",
+  "image_name": "ghcr.io/cyber-dojo-languages/erlang_eunit:d570edc@sha256:4d9d8a9ecc91d68af56efb70f7efa7757d31329519cab616727596603e502c8e",
+  "display_name": "Erlang 29.1.2, eunit",
   "language": [
     "Erlang",
-    "29"
+    "29.1.2"
   ],
   "test_framework": [
     "eunit",
